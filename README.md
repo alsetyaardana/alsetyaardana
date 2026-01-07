@@ -49,7 +49,7 @@ A live MVP helping traditional businesses automate order tracking.
 ## 🤝 Let's Connect
 I am open to discussions about **Network Solutions**, **Automation Projects**, or potential collaborations to grow Alink Technology.
 
-[**🌐 Visit My Portfolio**](https://alindra.alinktech.my.id) | [**💬 Chat on WhatsApp**](https://wa.me/6281393657195) | [**💼 LinkedIn**](https://www.linkedin.com/in/alindra-setya-ardana-7a0a78281/)
+[**🌐 Visit My Portfolio**](https://www.alindra.my.id) | [**💬 Chat on WhatsApp**](https://wa.me/6281393657195) | [**💼 LinkedIn**](https://www.linkedin.com/in/alindra-setya-ardana-7a0a78281/)
 
 ---
 *Architecting Solutions. Automating Growth.*
