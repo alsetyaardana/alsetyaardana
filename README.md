@@ -50,6 +50,10 @@ Sebuah solusi otomasi end-to-end yang menyelaraskan data fisik dari pemindaian R
 | :--- | :--- |
 | **Network & Security** | Enterprise Wireless Design, SD-WAN, Firewall Sizing, BoM Creation |
 | **RFID & Barcode Solution** | Conducting business process mapping and optimizing using barcode and RFID solutions |
+
+## 🧑‍🏭 Other Expertise (Freelance/Personal Consulting)
+| Domain | Competencies |
+| :--- | :--- |
 | **Automation** | n8n (Expert), Agentic Workflow Design, Business Process Optimization |
 | **Web & Frontend** | Tailwind CSS, Modern Landing Page Architecture (Vibe Coding) |
 
