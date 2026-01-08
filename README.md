@@ -32,6 +32,15 @@ An agentic AI system concept living inside Telegram to manage productivity and f
 A live MVP helping traditional businesses automate order tracking.
 - **Solution**: Replaced manual logs with an AI-powered real-time dashboard.
 - **Impact**: Zero paper waste and reduced admin workload via automation.
+- Tech: n8n, Docker
+
+### 📡 [RFID Audit System](https://rfidauditsystem.alinktech.my.id)
+**Stock Opname base on Excel**
+Automated Stock Opname Reconciliation Engine Sebuah solusi otomasi end-to-end yang menyelaraskan data fisik dari pemindaian RFID dengan laporan digital secara instan untuk akurasi inventaris 100%.
+- Solution: Rekonsiliasi otomatis antara Master Database (.xlsx) dengan hasil pemindaian lapangan masif dalam format .csv maupun .xls (APPCenter/UHF).
+- Logic: Dilengkapi sistem pembersihan data otomatis (data hygiene) dan fitur Dual-Audit Mode (ASCII vs HEX) untuk integritas data tingkat tinggi.
+- Impact: Mampu memproses ribuan data aset dalam hitungan detik, mereduksi waktu audit hingga ~80%, dan mengeliminasi human error pada pelaporan untuk PT Porta Nusa Indonesia.
+- Tech: n8n, Docker, RFID Hardware Integration.
 
 ---
 
