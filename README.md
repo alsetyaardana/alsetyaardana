@@ -54,7 +54,7 @@ Sebuah solusi otomasi end-to-end yang menyelaraskan data fisik dari pemindaian R
 ## 🧑‍🏭 Other Expertise (Freelance/Personal Consulting)
 | Domain | Competencies |
 | :--- | :--- |
-| **Automation** | n8n (Expert), Agentic Workflow Design, Business Process Optimization |
+| **Automation** | n8n, Agentic Workflow Design, Business Process Optimization |
 | **Web & Frontend** | Tailwind CSS, Modern Landing Page Architecture (Vibe Coding) |
 
 ---
